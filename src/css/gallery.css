@@ -94,3 +94,10 @@ input::placeholder {
   margin-bottom: 5px;
   margin-top: 0%;
 }
+.load-more {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
